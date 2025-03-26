@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Password-Generator
 
 This project is a Java Console Application to generate random passwords and perform password strength checks.
@@ -33,3 +34,6 @@ These criteria are used to calculate a score for the password, which determines 
 ### 3. Displaying Useful Information:
 
 This is a minor feature that displays information for the user on the console about password security, such as avoiding using the same password twice, avoiding character repetition, keyboard patterns, dictionary words, letter or number sequences, etc.
+=======
+# PasswordGenerator
+>>>>>>> 4ca82c7186689a10b6f1414b2471864b52ef2fc9
